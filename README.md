@@ -4,7 +4,7 @@ This project is a solution to the classic diner philosophers problem. <br>
 
 ## Cloning <br>
 ```
-https://github.com/MashkaCoder/philosophers.git
+git clone https://github.com/MashkaCoder/philosophers.git
 cd philosophers
 ```
 ## Task 
